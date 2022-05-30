@@ -1,6 +1,6 @@
 <h1 align="center"> Backend análise de dados </h1> <br>
 
-## Table of Contents
+## Índice
 
 - [Introdução](#introdução)
 - [Tecnologia](#tecnologia)
